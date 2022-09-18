@@ -1,0 +1,9 @@
+{
+    "locales": ["en", "fr", "ar"],
+    "defaultLocale": "en" , 
+    "pages": {
+        "*": ["common","about","hero","navbar","special","special2"]
+       
+      }
+
+}
