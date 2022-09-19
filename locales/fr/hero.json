@@ -2,5 +2,7 @@
     "title": "Nous aimons les aliments délicieux !" , 
     "cta":"Explorer le menu" , 
     "video":" lire la vidéo" , 
-    "icons" : ["Livraison rapide" , " Nourriture fraîche" , "24/7 assistance"]
+    "icon1" : "Livraison rapide" ,
+    "icon2":"Nourriture fraîche",
+    "icon3":"24/7 assistance"
   }

@@ -1,4 +1,8 @@
 {
-    "items":["Home","About","Special Dishes"] , 
-    "item2":["Menu ","Team" , "Reservation"]
+    "item1":"Home" , 
+    "item2":"About" , 
+    "item3":"Special Dishes" , 
+    "item4":"Menu ", 
+    "item5":"Team" , 
+    "item6":"Reservation" 
 }

@@ -5,6 +5,7 @@ import { useRouter } from 'next/router'
 import Link from 'next/link'
 import Navbar from './component/navbar'
 import useTranslation from "next-translate/useTranslation";
+import HeroSection from './component/heroSection'
 
 export default function Home() {
  
@@ -21,11 +22,10 @@ export default function Home() {
 
       <main className={styles.main}>
        
-       <h1>
-        {t("about:title")}
-       </h1>
+       
      
       <Navbar/>
+      <HeroSection/>
       </main>
 
       

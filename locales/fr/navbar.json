@@ -1,4 +1,8 @@
 {
-    "items":["Principale","A propos","plats spéciaux"] , 
-    "item2":["Menu","Equipe" , "Reservation"]
+    "item1":"principale" , 
+    "item2":"A propos" , 
+    "item3":"plas speciaux" , 
+    "item4":"Menu ", 
+    "item5":"Equipe" , 
+    "item6":"Reservation" 
 }
