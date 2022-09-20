@@ -6,6 +6,8 @@ import Link from 'next/link'
 import Navbar from './component/navbar'
 import useTranslation from "next-translate/useTranslation";
 import HeroSection from './component/heroSection'
+import About from './component/about'
+import Specialite from './component/special'
 
 export default function Home() {
  
@@ -26,6 +28,8 @@ export default function Home() {
      
       <Navbar/>
       <HeroSection/>
+      <About/>
+      <Specialite/>
       </main>
 
       

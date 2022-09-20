@@ -28,8 +28,8 @@ export default function Navbar(){
            layout="responsive" 
             />
             </div>
-            <div className="md:flex hidden">
-             <ul className="md:flex">
+            <div className="md:flex ">
+             <ul className="md:flex hidden ">
             <li className="px-4 hover:text-red-400">   {t("navbar:item4")}</li>
             <li className="px-4 hover:text-red-400">   {t("navbar:item5")}</li>
             <li className="px-4 hover:text-red-400">   {t("navbar:item6")}</li>  
