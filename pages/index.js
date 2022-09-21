@@ -8,6 +8,7 @@ import useTranslation from "next-translate/useTranslation";
 import HeroSection from './component/heroSection'
 import About from './component/about'
 import Specialite from './component/special'
+import Specialite2 from './component/special2'
 
 export default function Home() {
  
@@ -30,6 +31,7 @@ export default function Home() {
       <HeroSection/>
       <About/>
       <Specialite/>
+      <Specialite2/>
       </main>
 
       

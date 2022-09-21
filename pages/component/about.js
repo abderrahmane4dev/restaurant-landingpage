@@ -8,7 +8,7 @@ export default function About(){
         <> 
         <div className="md:flex  px-16 py-9"> 
             <div className=" md:px-4 w-full md:w-1/2"> 
-            <Image src={img1}/>
+            <Image className="shadow-md" src={img1}/>
             </div>
             <div className="md:w-1/2 w-full px-1 py-4"> 
                 <div>
