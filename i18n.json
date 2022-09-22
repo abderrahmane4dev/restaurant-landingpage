@@ -2,7 +2,7 @@
     "locales": ["en", "fr"],
     "defaultLocale": "en" , 
     "pages": {
-        "*": ["common","about","hero","navbar","special","special2"]
+        "*": ["common","about","hero","navbar","special","special2","menu","testimony"]
        
       }
 

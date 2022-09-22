@@ -9,6 +9,8 @@ import HeroSection from './component/heroSection'
 import About from './component/about'
 import Specialite from './component/special'
 import Specialite2 from './component/special2'
+import Menu from './component/menu'
+import Testimony from './component/testimony'
 
 export default function Home() {
  
@@ -32,6 +34,8 @@ export default function Home() {
       <About/>
       <Specialite/>
       <Specialite2/>
+      <Menu/>
+      <Testimony/>
       </main>
 
       
