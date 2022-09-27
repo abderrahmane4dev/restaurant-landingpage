@@ -5,7 +5,7 @@ export default function Specialite(){
     let {t} = useTranslation(); 
     return(
         <> 
-        <div className="bg-gray-50 py-9 px-9 md:px-16"> 
+        <div id="special" className="bg-gray-50 py-9 px-9 md:px-16"> 
             <div className="w-full text-center"> 
                 <spam className="text-red-400"> {t("special:title")} </spam> 
                 <h2 className="text-2xl"> {t("special:title2")}</h2>

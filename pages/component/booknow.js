@@ -11,7 +11,7 @@ export default function BookNow(){
     }
     return(
         <>
-        <div style={styling} className="bg-cover py-16 my-16  h-screen z-100 bg-center"> 
+        <div id="book" style={styling} className="bg-cover py-16 my-16  h-screen z-100 bg-center"> 
         <div className="bg-white z-20 md:ml-44  -mb-36 shadow-md shadow-black py-9 md:w-1/3 w-4/5 md:mx-0 mx-auto text-center"> 
             <div className="py-9"> 
             <h3 className="text-red-400 text-xl">  {t("book:title")} </h3>

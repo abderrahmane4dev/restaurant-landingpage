@@ -1,0 +1,14 @@
+{
+    "title": "Open Hours" , 
+    "title2":"Newsletter" , 
+    "input" : "Enter email",
+    "button" : "Submit",
+    "day1" : "Monday",
+    "day2" : "Tuesday",
+    "day3" : "Wednesday",
+    "day4" : "Thurdsay",
+    "day5" : "Friday",
+    "day6" : "Saturday",
+    "day7" : "Sunday",
+    "etat" : "Closed"
+  }

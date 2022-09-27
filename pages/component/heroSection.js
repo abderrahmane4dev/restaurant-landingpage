@@ -14,7 +14,7 @@ export default function HeroSection(){
     let {t} = useTranslation(); 
     return(
         <>
-        <div className="md:flex items-center px-9 md:px-16"> 
+        <div id="home" className="md:flex items-center px-9 md:px-16"> 
          <div className="md:w-1/2 flex flex-col justify-start "> 
              <div className="pr-16 mt-36"> 
               <h1 className="font-light text-6xl">  {t("hero:title")}</h1>

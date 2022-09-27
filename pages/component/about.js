@@ -6,7 +6,7 @@ export default function About(){
     let {t} = useTranslation(); 
      return (
         <> 
-        <div className="md:flex  px-16 py-9"> 
+        <div id="about" className="md:flex  px-16 py-9"> 
             <div className=" md:px-4 w-full md:w-1/2"> 
             <Image className="shadow-md" src={img1}/>
             </div>

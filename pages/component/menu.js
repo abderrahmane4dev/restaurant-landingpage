@@ -9,7 +9,7 @@ export default function Menu(){
     let price = t("menu:price") ; 
     return(
         <>
-        <div className="md:px-16 px-9 flex flex-col items-center py-9 "> 
+        <div id="menu" className="md:px-16 px-9 flex flex-col items-center py-9 "> 
         <div className="w-full text-center"> 
                 <spam className="text-red-400"> {t("special:title")} </spam> 
                 <h2 className="text-2xl"> {t("menu:m")}</h2>

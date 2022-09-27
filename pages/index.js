@@ -13,6 +13,7 @@ import Menu from './component/menu'
 import Testimony from './component/testimony'
 import Team from './component/team'
 import BookNow from './component/booknow'
+import Footer from './component/footer'
 
 export default function Home() {
  
@@ -40,6 +41,7 @@ export default function Home() {
       <Testimony/>
       <Team/>
       <BookNow/>
+      <Footer/>
       </main>
 
       

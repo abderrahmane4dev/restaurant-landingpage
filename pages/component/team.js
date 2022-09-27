@@ -10,7 +10,7 @@ export default function Team(){
     let {t} = useTranslation(); 
     return(
         <>
-        <div className="py-9 "> 
+        <div id="team" className="py-9 "> 
             <div className="w-full text-center"> 
                 <spam className="text-red-400"> {t("team:title")} </spam> 
                 <h2 className="text-2xl font-bold"> {t("team:title2")}</h2>
