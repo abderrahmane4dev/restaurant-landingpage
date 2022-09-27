@@ -11,6 +11,8 @@ import Specialite from './component/special'
 import Specialite2 from './component/special2'
 import Menu from './component/menu'
 import Testimony from './component/testimony'
+import Team from './component/team'
+import BookNow from './component/booknow'
 
 export default function Home() {
  
@@ -36,6 +38,8 @@ export default function Home() {
       <Specialite2/>
       <Menu/>
       <Testimony/>
+      <Team/>
+      <BookNow/>
       </main>
 
       

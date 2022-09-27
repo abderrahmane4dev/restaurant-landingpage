@@ -1,0 +1,14 @@
+{
+    "title": "Reservation" , 
+    "title2":"Book Now" , 
+    "ph1" : "Name",
+    "ph2" : "Email",
+    "ph3" : "Phone",
+    "ph4" : "Date",
+    "ph5" : "Time",
+    "ph6" : "Person",
+    "ph7" : "Your Message",
+    "button" : "Send Message"
+    
+    
+  }

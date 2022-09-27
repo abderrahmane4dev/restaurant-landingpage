@@ -1,0 +1,13 @@
+{
+    "title": "Reservation" , 
+    "title2":"Reserver Maintenant" , 
+    "ph1" : "Nom",
+    "ph2" : "Email",
+    "ph3" : "Mobile",
+    "ph4" : "Date",
+    "ph5" : "Heure",
+    "ph6" : "Personne",
+    "ph7" : "Votre Message",
+    "button" : "Envoyer Message"
+    
+  }
