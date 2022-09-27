@@ -1,20 +1,16 @@
 import { useState } from "react"
 import Image from "next/image";
-import useTranslation from "next-translate/useTranslation";
 import {FaFacebookF,FaGoogle,FaTwitter} from "react-icons/fa" 
 import {AiOutlineInstagram} from "react-icons/ai"
 export default function ItemTeam(props){
-    const styling = {
-        backgroundImage: `url('${props.image.src}')`,
-    }
+    
     const [hidden, setHidden] = useState(false);
     
-    let {t} = useTranslation(); 
     return(
         <> 
            <div   onMouseOver={()=>setHidden(true)} onMouseLeave={()=> setHidden(false)} className=" relative text-center flex justify-center  text-center   bg-cover md:w-1/4" >
                     <div className="z-0 ">
-                    <Image src={props.image}/>
+                    <img src={props.image.src}/>
                     </div>
                     <div className="bg-white w-4/5 mx-auto z-50 absolute bottom-9  text-center"> 
                         <h1 className="font-bold text-xl"> 
