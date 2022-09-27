@@ -10,7 +10,7 @@ export default function ItemTeam(props){
         <> 
            <div   onMouseOver={()=>setHidden(true)} onMouseLeave={()=> setHidden(false)} className=" relative text-center flex justify-center  text-center   bg-cover md:w-1/4" >
                     <div className="z-0 ">
-                    <img src={props.image.src}/>
+                    <Image src={props.image}/>
                     </div>
                     <div className="bg-white w-4/5 mx-auto z-50 absolute bottom-9  text-center"> 
                         <h1 className="font-bold text-xl"> 
