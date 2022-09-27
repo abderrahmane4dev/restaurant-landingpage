@@ -13,7 +13,7 @@ export default function TestItem(){
                 </h1>
                 <AiOutlineStar className="mx-auto my-4"  size="70px"/>
                 <p className="font-light py-4 md:px-16 text-2xl"> 
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
                 </p>
              
